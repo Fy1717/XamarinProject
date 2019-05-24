@@ -1,0 +1,13 @@
+C:\Users\frkny\source\repos\SQLiteProjem\SQLiteProjem\SQLiteProjem\bin\Debug\netstandard2.0\SQLiteProjem.deps.json
+C:\Users\frkny\source\repos\SQLiteProjem\SQLiteProjem\SQLiteProjem\bin\Debug\netstandard2.0\SQLiteProjem.dll
+C:\Users\frkny\source\repos\SQLiteProjem\SQLiteProjem\SQLiteProjem\bin\Debug\netstandard2.0\SQLiteProjem.pdb
+C:\Users\frkny\source\repos\SQLiteProjem\SQLiteProjem\SQLiteProjem\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\frkny\source\repos\SQLiteProjem\SQLiteProjem\SQLiteProjem\obj\Debug\netstandard2.0\InsertPage.xaml.g.cs
+C:\Users\frkny\source\repos\SQLiteProjem\SQLiteProjem\SQLiteProjem\obj\Debug\netstandard2.0\ListPage.xaml.g.cs
+C:\Users\frkny\source\repos\SQLiteProjem\SQLiteProjem\SQLiteProjem\obj\Debug\netstandard2.0\SQLiteProjem.csproj.CoreCompileInputs.cache
+C:\Users\frkny\source\repos\SQLiteProjem\SQLiteProjem\SQLiteProjem\obj\Debug\netstandard2.0\SQLiteProjem.AssemblyInfoInputs.cache
+C:\Users\frkny\source\repos\SQLiteProjem\SQLiteProjem\SQLiteProjem\obj\Debug\netstandard2.0\SQLiteProjem.AssemblyInfo.cs
+C:\Users\frkny\source\repos\SQLiteProjem\SQLiteProjem\SQLiteProjem\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\frkny\source\repos\SQLiteProjem\SQLiteProjem\SQLiteProjem\obj\Debug\netstandard2.0\SQLiteProjem.dll
+C:\Users\frkny\source\repos\SQLiteProjem\SQLiteProjem\SQLiteProjem\obj\Debug\netstandard2.0\SQLiteProjem.pdb
+C:\Users\frkny\source\repos\SQLiteProjem\SQLiteProjem\SQLiteProjem\obj\Debug\netstandard2.0\SQLiteProjem.csprojAssemblyReference.cache
